@@ -1,4 +1,3 @@
 # Egern 直连规则集
 # 大陆可直连的线路域名，由 Muse 自动维护
 # 格式: Surge RULE-SET
-IP-CIDR,198.23.187.155/32
